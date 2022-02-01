@@ -76,19 +76,19 @@
 <h3 align="center">Sobre mim:</h3>
 
 <p align="center">
-  <a href="https://instagram.com/seu-usuario/">
+  <a href="https://www.instagram.com/gusrond/">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
     />
   </a>
-  <a href="https://twitter.com/seu-usuario">
+  <a href="https://twitter.com/_gusrh">
     <img
       align="center"
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
     />
   </a>
-  <a href="https://discord.gg/seu-server">
+  <a href="https://discord.gg/BHuvZ27gRp">
     <img
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
@@ -98,10 +98,10 @@
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
-  <a href="https://www.youtube.com/channel/link-do-canal">
+  <a href="https://www.twitch.tv/gusrond">
     <img
-      align="center"
-      src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
+      align="center" 
+      src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=00FFFF"
     />
   </a>
 </p>
