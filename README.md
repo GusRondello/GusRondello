@@ -1,4 +1,4 @@
-[![banner](./banner.png)](https://github.com/seu-usuario)
+[![banner](./banner.png)](https://github.com/GusRondello)
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -95,7 +95,7 @@
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/gusrondello/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
@@ -107,5 +107,5 @@
     />
   </a>
 </p>
-<h5 align="center">Seu @</h5>
+<h5 align="center">Seu @GusRond</h5>
 </details>
