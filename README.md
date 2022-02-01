@@ -101,7 +101,7 @@
   <a href="https://www.twitch.tv/gusrond">
     <img
       align="center" 
-      src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=00FFFF"
+      src="https://img.shields.io/badge/Twitch-1C1C1C?style=for-the-badge&logo=twitch&logoColor=00FFFF"
     />
   </a>
 </p>
