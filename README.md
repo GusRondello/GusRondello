@@ -29,9 +29,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
-
-<h4 align="center">
   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Gustavo Rondello</h1></img>
+<h4 align="center">
 <details>
 <summary>Mais...</summary>
 <p align="center">
