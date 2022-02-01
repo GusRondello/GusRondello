@@ -5,6 +5,4 @@
 - 📫 How to reach me you can contact me on my socials!
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=GusRondello&theme=dark)](https://github.com/GusRondello/)
-
-[![GusRondello](https://github-readme-stats.vercel.app/api/top-langs/?username=GusRondello&hide=html&layout=compact&theme=dark)](https://github.com/GusRondello/)
+[![card](https://github-readme-stats.vercel.app/api?username=GusRondello&theme=tokyonight)](https://github.com/GusRondello/) [![GusRondello](https://github-readme-stats.vercel.app/api/top-langs/?username=GusRondello&hide=html&layout=compact&theme=tokyonight)](https://github.com/GusRondello/)
