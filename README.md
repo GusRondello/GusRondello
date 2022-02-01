@@ -31,8 +31,8 @@
 </p>
 
 <h4 align="center">
+  <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Gustavo Rondello</h1></img>
 <details>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Gustavo Rondello</h1></img>
 <summary>Mais...</summary>
 <p align="center">
   <a href="https://github.com/gusrondello">
