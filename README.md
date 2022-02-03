@@ -64,7 +64,7 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="tryber/sd-019-a-project-shopping-cart/tree/gustavo-rondello-shopping-cart">
+  <a href="https://github.com/tryber/sd-019-a-project-shopping-cart/tree/gustavo-rondello-shopping-cart">
     <img
       align="center"
       height="120em"
