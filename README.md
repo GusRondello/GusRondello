@@ -80,12 +80,6 @@
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
     />
   </a>
-  <a href="https://twitter.com/_gusrh">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
-    />
-  </a>
   <a href="https://discord.gg/BHuvZ27gRp">
     <img
       align="center"
