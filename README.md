@@ -31,8 +31,6 @@
 </p>
   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Gustavo Rondello</h1></img>
 <h4 align="center">
-<details>
-<summary>Mais...</summary>
 <p align="center">
   <a href="https://github.com/gusrondello">
     <img
@@ -106,4 +104,3 @@
   </a>
 </p>
 <h5 align="center">Seu @GusRond</h5>
-</details>
