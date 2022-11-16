@@ -72,7 +72,7 @@ Busco primeira experiência profissional na área de Desenvolvimento Web. Trabal
 
 
 <!-- Seção de GitHub Stats -->
-<p align="right">
+<p align="center">
   <a href="https://github.com/gusrondello">
     <img
       align="center"
@@ -82,7 +82,7 @@ Busco primeira experiência profissional na área de Desenvolvimento Web. Trabal
   </a>
   <a href="https://github.com/gusrondello">
     <img
-      align="right"
+      align="center"
       height="150em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusrondello&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
