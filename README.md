@@ -21,7 +21,7 @@
 
 <h2 align="center" ><b>Sobre mim:</b></h2>
 <h3 align="center"> 
-   Me chamo <b>Gustavo Rondello</b>, tenho 25 anos, e sou de São Paulo, SP, Brasil.
+   Me chamo <b>Gustavo Rondello</b>, tenho 26 anos, e sou de São Paulo, SP, Brasil.
 </h3>
 Apaixonado pela computação e tecnologia, busco sempre aprender mais e diversificar meu conhecimento. 
 <br />
